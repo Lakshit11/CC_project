@@ -6,7 +6,7 @@ import os
 
 
 PORT = 5050
-SERVER = "172.105.58.182"
+SERVER = "xxx.xxx.xx.xxx" #ip address hidden for privacy reasons
 # SERVER = "localhost"
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
