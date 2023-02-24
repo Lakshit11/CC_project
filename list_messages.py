@@ -2,7 +2,7 @@ import socket
 import pandas as pd
 
 PORT = 5050
-SERVER = "172.105.58.182"
+SERVER = "xxx.xxx.xx.xxx"
 # SERVER = "localhost"
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
