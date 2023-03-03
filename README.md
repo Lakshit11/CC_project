@@ -46,7 +46,7 @@ The working of application with respect to code can be explained as follows:
 There are total 4 python files they are server.py, client.py, list_messages.py and message_logs.py. Each file serves the purpose as the name suggests. The CSV files used are messages.csv 
 used to store the messages and data.csv that stores client’s IP address, their thread number and name of client. 
 
-# Actual Working: 
+## Actual Working: 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. We run server.py file and then the server starts. 
 2. After that, when clients are created by running client.py file, server is prompted with their IP address and corresponding thread number and with messages if any. 
