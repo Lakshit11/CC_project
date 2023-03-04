@@ -4,7 +4,7 @@ import socket
 from datetime import datetime
 
 PORT = 5050
-SERVER = "xxx.xx.xxx.xx"
+SERVER = "xxx.xx.xxx.xx" # ip address hidden for privacy and security reasons (Please contact owner of this repository to get IP address)
 #SERVER = "localhost"
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
